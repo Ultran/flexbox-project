@@ -2,7 +2,7 @@
 
 #### 🎥 Live: click [here](https://ultran.github.io/flexbox-project/) to see project.
 
-#### **For this challenge I used:**
+#### **For this project I used:**
 
 - FLEXBOX;
 - HTML;
